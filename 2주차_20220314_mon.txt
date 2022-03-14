@@ -1,0 +1,24 @@
+'''
+2022_03_14
+2주차 수업
+'''
+'''
+print('hello');
+print("hello");
+
+print( "He's name is 철수" )
+print( 'he said "I am OK!" ' )
+
+print( "He said \"I am OK!\" ")
+'''
+print("a" * 10)
+
+<문제>
+=================
+He said "Python is Easy"
+34256곱하기2365는 _____입니다.
+=================
+
+
+print("34256곱하기 2365는",34256*2365,"입니다")
+
